@@ -1,0 +1,3 @@
+bin
+.secrets
+.github/actions/update-badge/node_modules
