@@ -9,14 +9,14 @@
 
 ## Multilanguage
 
-* [kenan238/aoc-2023](https://github.com/kenan238/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [kenan238/aoc-2023](https://github.com/kenan238/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 
 # Rust
 
-* [skifli/aoc](https://github.com/skifli/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [skifli/aoc](https://github.com/skifli/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 
 ## C/C++/C\#
-* [Shantanusharnagat/AOC](https://github.com/Shantanusharnagat/AOC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
+* [Shantanusharnagat/AOC](https://github.com/Shantanusharnagat/AOC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 
 ## Go
-* [taythebot/aoc-2023](https://github.com/taythebot/aoc-2023)
+* [taythebot/aoc-2023](https://github.com/taythebot/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
