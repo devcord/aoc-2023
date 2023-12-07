@@ -6,7 +6,7 @@
 
 ## Python
 * [austinmccalley/aoc-2023](https://github.com/austinmccalley/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
-* [PreshitS/AOC-23-Python](https://github.com/PreshitS/AOC-23-Python) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [PreshitS/AOC-23-Python](https://github.com/PreshitS/AOC-23-Python) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--05-brightgreen)
 
 ## Multilanguage
 
@@ -20,4 +20,4 @@
 * [Shantanusharnagat/AOC](https://github.com/Shantanusharnagat/AOC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 
 ## Go
-* [taythebot/aoc-2023](https://github.com/taythebot/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
+* [taythebot/aoc-2023](https://github.com/taythebot/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
