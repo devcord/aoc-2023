@@ -10,7 +10,7 @@
 
 ## Multilanguage
 
-* [kenan238/aoc-2023](https://github.com/kenan238/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--18-brightgreen)
+* [kenan238/aoc-2023](https://github.com/kenan238/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--19-brightgreen)
 
 # Rust
 
